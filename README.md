@@ -15,7 +15,7 @@
 # Getting Started:
   1. Clone the Repository:
      Clone this repository to your local machine using the following command:
-     git clone git@github.com:praveenuppari27/Registration_and_Login_Page_Using_Python_and_mySQL.git
+     git clone https://github.com/Madhugoud07/Registration_and_Login_Page_Using_Python_and_mySQL/
   2. Dependencies Installation:
      Make sure you have Python installed. Install required dependencies using:
      pip install -r requirements.txt
@@ -32,7 +32,7 @@
    Make your enhancements or fixes.
    Submit a pull request describing your changes.
 # Project Maintainer:
-   PRAVEEN UPPARI
+ MADHU GOUD
 
 # Let's Build Together!
    Join us in creating a robust and user-friendly registration and login system. Your contributions are essential to making this project even more valuable for learners and 
